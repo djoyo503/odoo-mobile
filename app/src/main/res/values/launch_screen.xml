@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Sizes-->
+    <dimen name="launch_screen_title_size">45sp</dimen>
+    <!--Colors-->
+    <color name="launch_screen_title_color">#ffffff</color>
+    <color name="launch_screen_version_color">#77ffffff</color>
+
+    <!--Strings-->
+    <string name="launch_screen_title">OOG Mobile</string>
+</resources>
